@@ -33,8 +33,6 @@ public class Quizzapp {
         p.setPassword(sc.nextLine());
 
 
-        // Display participant details
-
         System.out.println("\n===== Participant Details =====");
 
         System.out.println("Name: " + p.getName());
