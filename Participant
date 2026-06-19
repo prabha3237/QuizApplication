@@ -1,4 +1,4 @@
-package prabha.jav;
+package prabha.java;
 import java.util.Scanner;
 public class Participant {
 	String name;
